@@ -1,0 +1,101 @@
+1. function -- Repeat work we do on the system we convert that into function 
+2. module - It is a group of function that are bundled together is called module 
+3. packages - It is a group of modules along with the function that are bundled together
+ is called packages
+4 Library - 
+
+ function to module 
+def add(a,b) :
+    c = a+b 
+
+
+def sub(a,b) :
+    c = a-b 
+
+
+def div(a,b) :
+    c = a+b 
+
+
+mgrpkg  -- publish 
+    leaveapprovalfile -- funct1
+    projectschedule -- funct2
+    meetingdetail -- funct3
+    peoplemgm -- funct4 
+    project1(mod) --  meeting, projectschedule, peoplemgm, leaveapproval
+    project2(mod) --  meeting, projectschedule, peoplemgm, leaveapproval
+    project3(mod) --  meeting, projectschedule, peoplemgm, leaveapproval
+
+vendor related packages --  application, platform, db,cloud 
+open source community packages  - mgrpkg ,
+
+python package manager - pypi.org
+
+oracle -- math, os, 
+
+python --  python library, python CLI, python package manager, 60 python package 
+
+packages - os, sys, datetime, pathlib, math, json, csv, 
+
+OS 
+oracle pkg  ( deppkg, oracle pkg)  - 
+      os - 2.1
+      sys
+      date
+      numpy
+
+
+servicenow pkg -- 
+    os - 3.1 , sys , date 
+
+
+virtual environment ( )
+
+ folder2 -- serivcenow pkg 
+ folder3(python env) -- oracle pkg 
+
+
+ pip list | pip3 list
+
+ python -m venv AITrainingWE2026
+ .\AITrainingwe2026\Scripts\activate
+ pip3 list
+
+ We should be in the Base directory 
+dir
+
+pip freeze > requirement.txt
+pip install -r requrement.txt
+
+
+function : 
+1. Inbuild function - It is part of python packages itself in you system  - input(), print()
+2. module function - datetime.now(), datetime.time() 
+3. Custom functions   - func1()
+python : 
+input statement 
+1  input()
+ a  = str(input("Enter your name: ")) -- dynamic input value ( a variable is not intialization )
+ b = 10  -- static input value 
+  input().split()
+  int(input()) Nested data type casting
+  float(input())
+  str(input())
+  eval(input())
+output statement
+1. print()
+
+
+Data Types:
+
+1 numerical Data Types: int, float, complex
+2 Sequence Data Types: str, list, range,  tuples
+3 Mapping Data types: dict
+4 Set data Types : Set
+5 Boolean Data types: Bool
+6 Binary data  types : 
+
+int, float, str, list, range
+
+list [1,4, "sam", 3.2j,2,1,1,4] - ordered, indexed, different data types, changable , duplicate
+set  {}-- unordered, unindexed, one data types, unchangable ,no duplicate value
