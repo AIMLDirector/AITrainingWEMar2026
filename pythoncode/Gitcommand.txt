@@ -1,0 +1,16 @@
+
+git pull https://github.com/AIMLDirector/AITrainingWEMar2026.git
+cd AIMLDirector 
+ 
+git add Modules/os.py
+git add -A 
+git commit -m "added python code"
+git push
+
+git pull
+git checkout -b dev    # create a branch locally
+git checkout main 
+git checkout dev
+git add/commit 
+git push or  git push --set-upstream origin dev
+
