@@ -3,7 +3,7 @@
 # GenAI module -- langchain, openai , cohere , huggingface , transformers , sentence-transformers , textblob , vaderSentiment , wordcloud , pytextrank , sumy , gensim -- for natural language processing and generation
 # Agentic Ai module -- crewai, microsoft agent framework, google adk -- for building intelligent agents and chatbots
 # Db module -- cx-oracle, pymongo, sqlalchemy , psycopg2 , mysql-connector-python , sqlite3 , redis-py , cassandra-driver , neo4j-driver -- for database connectivity and operations
-import os
+import osq
 from dotenv import load_dotenv   # pip install python-dotenv
 load_dotenv()  # Load environment variables from .env file
 print(os.getcwd())  # Get current working directory

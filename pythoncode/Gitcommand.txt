@@ -14,3 +14,6 @@ git checkout dev
 git add/commit 
 git push or  git push --set-upstream origin dev
 
+git branch
+git log
+git remote -v 

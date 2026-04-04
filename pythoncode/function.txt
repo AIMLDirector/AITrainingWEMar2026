@@ -1,0 +1,29 @@
+def func1():
+    logic/ output - print/return
+
+
+func1()
+
+def func2(a:int=30,b:int=40):
+   c = a+b
+   print(int(c))
+   return c
+
+
+ value1 = func2(10,20)
+
+ value2 = func2()
+ value3 = func2(b=15, a=11)
+
+
+def func3(*args):
+ l1 = list(args)
+ total = len(l1)
+ for i in l1:
+    if i.isdigit()
+
+ print(l1)
+
+func3(10,20,30)
+func3(40)
+func3(2.5,10,'sam')

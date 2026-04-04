@@ -1,0 +1,63 @@
+python :
+1 if  with conditional  and loop
+2 while  with condition and loop 
+3 for loop 
+
+
+for + if loop
+for with while loop 
+for with if and while loop
+if and while loop
+function with for and if loop 
+class  with for and if loop 
+
+
+if <condition>:
+    <action> --  execution , print, return 
+
+if <condition>:
+    <action>
+else:
+    <action>
+
+
+if <condition>:
+    <action>
+elif <condition>:
+    <action>
+else:
+    <action> 
+
+if <condition>:
+    <action>
+elif <condition>:
+    <action>
+elif <condition>:
+    <action>
+elif <condition>:
+    <action>
+else:
+    <action> 
+
+condition: Single condition  or multiple condition ( and, or , not, equal to, greater, smaller than )
+
+if condition:
+    if condition:
+        if condition:
+            action
+        else:
+            action
+
+
+
+while loop 
+1. while loop with True:  - Testing - break or continue  , it will be infinite loop
+2  while with condition statement 
+
+i = 0
+while True:
+    print(i)
+    i+ = 1
+    if i == 5:
+        print("We have met the condition and exiting the loop ")
+        break 
