@@ -1,4 +1,4 @@
-from data.promptvalidation import prompt_validation, prompt_cleanup
+from promptvalidation import prompt_validation, prompt_cleanup
 
 
 def generate_response(prompt):

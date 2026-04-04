@@ -1,0 +1,36 @@
+NLP is used to interpret and understand human conversation/input and generate human understanble response
+NLP Application: Text to text, text to voice, voice to text, voice to voice 
+
+1 chatbot -- Banking sector 
+2. sentimental analytics
+3. machine translation -- parilement 
+4. Text summarization - 2006 -- 2019 - GEN AI 
+5. text generation  - 2006 -- failure -- 2019 - GenAi - successfull use case
+
+
+how to learn python 
+
+learn  --  
+python  -  
+learn python  -   
+
+rule based search - regular expression  or word match 
+pattern based search -- pattern -- good, great -- positive,, bad , ugly , worst -- negative 
+intent and context based search  --  learning  - GENAI 
+
+ 1. learning -- 
+ 2. learning --- > python
+NLP layers :
+ 1. lexical analytics  - identify the root word 
+ 2. syntactic analytics ==  gramaticaly syntax and structure
+ 3. semantic analytics - meaning and topic , emotion information( place, city, name)
+ 4. discourse integration - - correlation of the word and alternative 
+ 5. pragmatic analytics - intent , interpretation of the word  and context (rule based )
+ 6. Thinking and decision making capablilty --  research 
+
+ GENAI  -- 40 %  60 %  -- 70 % - 6 years
+ 
+
+
+
+
